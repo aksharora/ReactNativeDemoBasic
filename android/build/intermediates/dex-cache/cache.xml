@@ -3,12 +3,30 @@
 
     <item
         is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_3f98cc4658a15f5879604dd4dd7b510d43c5de66.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/vinod/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
         <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_f8e46c5779fc16ede411f1bf6c9b0f848151437f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_d19f11e9e17906ca3903755762c0a954fcceb243.jar" />
     </item>
     <item
         is-multidex="false"
@@ -27,6 +45,15 @@
         revision="23.0.1"
         sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
         <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_48fb31776d922de948901630408f6075025fdd46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_69eafe2de63df46fecd2cf17ffef1f823a02cc88.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,6 +93,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_f12b07a4592eff1502d5f076b911b988ef71a339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_6ac85c8f06dea6c603fe7ba01f39884dc82276fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -75,12 +120,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_80828f9d45c5d16583b2e5391ce0d03833093863.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
         <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_69912a6d0413b51793f37bf23c14efd047e32250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_cbf06d302f36c910a12613bd5b02e57b6164b49b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_ae29088e63a82a583385ee9f534a108ceddf1d95.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,6 +192,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f66dccf471b94d5d28c54a6b8ca9e1668b0fb0ce">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.43.0_563b8751122fa70a274166f85a094585dab292d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -138,12 +219,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_87b144920968f788c327e2d3527874f1b80e8090.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f66dccf471b94d5d28c54a6b8ca9e1668b0fb0ce">
         <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.43.0_c2d0b393500bc2a4a3f14ed42dc6537cd2970430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_52a05ac5599e6d218c03f80826439035999a396f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,21 +255,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b8a1d629fef8d4f1970a94f939e15ea53d7db040.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/vinod/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="63994437f62bc861bc20c605d12962f7246116d1">
         <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_b75156d19bc048e6fa222f39a9b320d9886fe1d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b8a1d629fef8d4f1970a94f939e15ea53d7db040.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,6 +291,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_69d6a8f2ce5df8505b78b9ffd93fbb3a41564d7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/vinod/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
         jumboMode="false"
         optimize="true"
@@ -201,12 +309,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_14a353a231bd634a9dcaaaadcb45dd16605f7df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/vinod/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
         <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_eae0bae40c0060ac185af6d986c75557cba29a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/vinod/Desktop/reactDemo/ReactDemoProject/ReactNativeDemoBasic/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_b87b2e4e62e2df2d097b921f5a0628a709ddc71a.jar" />
     </item>
 
 </items>

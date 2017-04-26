@@ -15,23 +15,25 @@ import {
   View,
   Image,
   Alert,
-  StackNavigator,
   ActivityIndicator,
 }
 from 'react-native';
 
 export default class Splash extends Component {
 
-  constructor(props) {
-    super(props);
-
-    setTimeout(() => {
-      this.props.navigator.push({
-        name: 'Login',
-        data: 'I am from FirstScene'
-      });
-    }, 2000);
-  }
+  // constructor(props) {
+  //   super(props);
+  // 
+  //   setTimeout(() => {
+  //     this.props.route({
+  //       name:'Login',
+  //     });
+  //     // this.props.navigator.push({
+  //     //   name: 'Login',
+  //     //   data: 'I am from FirstScene'
+  //     // });
+  //   }, 2000);
+  // }
 
   render() {
     return (<Image source = {

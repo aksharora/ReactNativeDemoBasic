@@ -1,7 +1,16 @@
-import React, { Component } from 'react';
-import { AppRegistry, View, Navigator, } from 'react-native';
+import React, {
+  Component
+}
+from 'react';
+import {
+  AppRegistry,
+  View,
+  Navigator,
+}
+from 'react-native';
 import Splash from './Splash';
 import Login from './Login';
+import Home from './Home';
 
 export default class BaseComponent extends Component {
 
@@ -10,25 +19,31 @@ export default class BaseComponent extends Component {
       case 'Splash':
         return <Splash navigator = {
           navigator
-          }
-          />;
+        }
+        />;
       case 'Login':
-        return <Login navigator = {navigator}
-          />;
+        return <Login navigator = {
+          navigator
+        }
+        />;
+      case 'Home':
+        return <Home navigator = {
+          navigator
+        }
+        />;  
     }
   }
 
   render() {
     return <Navigator
-      initialRoute = {
+    initialRoute = {
       {
         name: 'Splash'
       }
-      }
-      renderScene = {
+    }
+    renderScene = {
       this.renderScene.bind(this)
-      }
-
-      />;
+    }
+    />;
   }
 }

@@ -4,10 +4,13 @@ import { API_CLIENT } from './APIConfig';
 
 export default class ApiIntructor {
     static fetchLoginData(username,password){
-      console.warn(`${username} ${password}`);
-      return API_CLIENT.post('react-native/movies.json', {
+      return API_CLIENT.post('default/login', {
         username,
         password,
       });
+    }
+    
+    static fetchMovieData(){
+      return API_CLIENT.get('movies.json');
     }
 }
