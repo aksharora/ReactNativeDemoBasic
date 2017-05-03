@@ -5,21 +5,14 @@
  */
 
 import React, { Component } from 'react';
-import {
-  AppRegistry,
-} from 'react-native';
+import { AppRegistry, } from 'react-native';
 
-import BaseComponent from './src/BaseComponent';
+import MainComponent from './src/MainComponent';
 
 export default class ReactDemoProject extends Component {
 
   render() {
-    return (
-      <BaseComponent/>
-    );
+    return (<MainComponent/>);
   }
 }
-
-
-
 AppRegistry.registerComponent('ReactDemoProject', () => ReactDemoProject);
